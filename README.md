@@ -2,7 +2,7 @@
 
 ## Participantes - Group Members 
 - Joaquin Carrión Gil -> 
-- Iván Gaarcía Donderis -> 
+- Iván García Donderis -> 1aiban
 - Gonzalo Hurtado Sanhermelando -> ghursan
 - Carles Navarro Esteve -> carlesnaes
 - Marcos Gómez Soler-> marcosgs04
