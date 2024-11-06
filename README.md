@@ -3,9 +3,9 @@
 ## Participantes - Group Members 
 - Joaquin Carrión Gil -> 
 - Iván Gaarcía Donderis -> 
-- Gonzalo Hurtado Sanhermelando -> 
+- Gonzalo Hurtado Sanhermelando -> ghursan
 - Carles Navarro Esteve -> carlesnaes
-- Marcos Gómez Soler-> 
+- Marcos Gómez Soler-> marcosgs04
 
 ## Introducción al proyecto
 
