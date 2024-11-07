@@ -2358,6 +2358,39 @@ $(document).ready(function ()  {
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
+  <style>
+        
+        /* Contenedor para los botones de navegación */
+        .navigation-buttons {
+            display: flex;
+            justify-content: center; /* Alinea los botones al centro */
+            gap: 20px; /* Espaciado entre los botones */
+            margin-top: 20px; /* Separación de los botones de contenido */
+        }
+
+        /* Estilo de los botones */
+        .button {
+          position: absolute; /* Posicionamiento absoluto */
+        top: 12000px;  /* Desde la parte superior (50px) */
+        left: 500px; 
+            text-decoration: none; /* Elimina el subrayado */
+            background-color: #ADAAAB; /* Color de fondo verde */
+            color: white; /* Color del texto */
+            padding: 10px 20px; /* Espaciado interno (margen dentro del botón) */
+            border-radius: 5px; /* Bordes redondeados */
+            font-size: 16px; /* Tamaño de la fuente */
+            transition: background-color 0.3s ease; /* Efecto de transición */
+        }
+
+        /* Efecto de hover (cuando el mouse pasa sobre el botón) */
+        .button:hover {
+            background-color: #848081; /* Color de fondo al pasar el mouse */
+        }
+    </style>
+  <div class="navigation-buttons">
+        <a href="index.html" class="button" style="top: 12000px; left: 650px;">Índice</a>
+        <a href="Anexo 3 Objetivo_1.html" class="button" style="top: 12000px; left: 900px;">Siguiente</a>
+    </div>
 
 </body>
 </html>
